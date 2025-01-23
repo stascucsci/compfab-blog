@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://stascucsci.github.io/compfab-blog/
 languageCode: en-us
-title: My New Hugo Site
+title: Computational Fabrication Blog
 theme: ["PaperMod"]
