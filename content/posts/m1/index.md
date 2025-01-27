@@ -1,0 +1,48 @@
+---
+date: '2025-01-26T22:30:18-07:00'
+draft: false
+title: 'Mini #1 - "Seeing Is Believing"'
+---
+
+## Computational Design in Nature
+
+![](sunflower.jpg "Photo from https://www.themarthablog.com/2023/08/the-sunflowers-are-blooming.html")
+
+_Botanical World_ Sunflowers exhibit a regular spiral pattern in the placement of their seeds. If you count the number of clockwise and counter-clockwise spirals, it will usually be a pair of numbers from Fibonacci sequence, e.g. 34 and 55 or 55 and 89. [^sunflower]
+
+[^sunflower]: https://www.science.org/content/article/sunflowers-show-complex-fibonacci-sequences
+
+
+![](peacock.jpg "Photo from https://www.marthastewart.com/8164967/prehistoric-peacock-discovery-new-study-october-2021")
+
+_Zoological World_ Another example of the fibonacci appearing in nature. The peacock exhibits spiral patterns on its feathers that follow the Fibonacci sequence.
+
+
+![](web.jpg "Photo from https://www.si.edu/stories/drugged-spiders-under-influence")
+
+_Environment Built by Organisms_ Although the patterns of webs woven by spiders vary among species, most of them exhibit regular and symmetric patterns. The photo is an example of a web woven by the orb weaving spider A. bifurca. [^spider]
+
+[^spider]: https://www.si.edu/stories/drugged-spiders-under-influence
+
+
+## Computational Design in the Human-Made Built Environment
+
+![](zloty.jpg "Photo from https://www.wb-sg.com/projects/zlotetarasy/")
+
+Zlote Tarasy in Warsaw is a triangular steel and glass structure representing cloth draped over spheres. It won the European Steel Design Award in 2007. [^zloty]
+
+[^zloty]: https://www.wb-sg.com/projects/zlotetarasy/
+
+![](pot.jpg "Photo from https://www.etsy.com/listing/711532698/3d-planter-model-9-digital-download-stl")
+
+3D printers have provided a very accessible way to create objects based on computational design. It provides a streamlined pipeline from designs generated on a computer to physical objects and often allows the creation of objects that would be difficult or impossible using more traditional manufacturing techniques.
+
+![](fabric.jpg "Photo from https://www.core77.com/posts/65465/NASAs-3D-Printed-Metallic-Fabric")
+
+Another example of an object that can only be practically made using 3D printing, this is a material made at NASA that exhibits traits of a fabric while being manufactured from solid metal. [^fabric]
+
+[^fabric]: https://www.core77.com/posts/65465/NASAs-3D-Printed-Metallic-Fabric
+
+![](hendr.jpg "Photo from https://thangs.com/designer/LoftedGoods/3d-model/Quilted%20Planter-994217")
+
+I am a fan of Hendricks Design (recently rebranded to LoftedGoods). They consistently are able to create 3d printed designs that blend interesting 3d patterns and classic design styles in an aesthetically pleasing way. From what I've seen in some of their videos, they generate most of their designs in Fusion360 using a blend of sweeps and lofts. Their instagram page with many of their designs can be found here: [loftedgoods](https://www.instagram.com/loftedgoods)
