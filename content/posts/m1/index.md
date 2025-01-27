@@ -29,7 +29,7 @@ _Environment Built by Organisms_ Although the patterns of webs woven by spiders 
 
 ![](zloty.jpg "Photo from https://www.wb-sg.com/projects/zlotetarasy/")
 
-Zlote Tarasy in Warsaw is a triangular steel and glass structure representing cloth draped over spheres. It won the European Steel Design Award in 2007. [^zloty]
+Zlote Tarasy in Warsaw is a triangular steel and glass structure representing cloth draped over spheres. It won the European Steel Design Award in 2007. I have seen it in person and it is quite breathtaking. [^zloty]
 
 [^zloty]: https://www.wb-sg.com/projects/zlotetarasy/
 
