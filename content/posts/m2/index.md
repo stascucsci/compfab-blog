@@ -60,7 +60,3 @@ Since the pointillism raster did not work out, I tried another design. I made a 
 
 
 ![](qr_calibration.jpeg "Attempting to calibrate the laser power and speed for optimal engraving.")
-
-Since I didn't generate the QR in processing, I wrote a processing script for the calibration image:
-
-{{< importcode "qr.pde" "java" >}}
