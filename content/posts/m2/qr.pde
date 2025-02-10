@@ -1,12 +1,7 @@
 import processing.svg.*;
 
-PImage img;
-int smallPoint, largePoint;
-
 void setup() {
   size(2728/4, 3410/4);
-  img = loadImage("photo.jpg");
-  img.filter(GRAY);
   noStroke();
   background(255);
   
